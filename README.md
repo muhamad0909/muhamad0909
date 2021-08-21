@@ -1,6 +1,6 @@
 ## How to it?
 ```php
-$ cd Prank-Call
+$ cd mdmdputra0909
 $ pip install -r requirements.txt
 $ python main.py
 ```
